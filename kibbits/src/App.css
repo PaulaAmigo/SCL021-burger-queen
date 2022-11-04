@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+*{
+  background-color: #0B6B69;
+    outline: 1px solid blue !important;
+    font-family: 'Quicksand', sans-serif;
+}
+.App {
+  text-align: center;
+  
+}
+.home{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+ .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} 
+.App-logo2 {
+  height: 30vmin;
+  pointer-events: none;
+}
+
+h1{
+  color: #FAA37F;
+  font-size: 5ch;
+  position: center;
+}
+.mesero, .cocina{
+  background-color: #BCCFBB;
+  border-radius: 20px;
+  height: 50px;
+  width: 200px;
+}
+.logos {
+  background-color: #0B6B69;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between; 
+}
+.logoMenu {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.cookPics, .menuPics, .button {
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  font-size: 3ch;
+}
+.tea, .burger {
+  background-color: transparent;
+}
+.menu{
+  background-color: #BCCFBB;
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  width: 200px;
+  border-radius: 20px;
+  font-size: 2ch;
+}
+.items{
+  background-color: #FAA37F;
+  height: 60px;
+  width: 250px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.homePic {
+  background-color: transparent;
+}
+
+/* .items, .price {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+} */

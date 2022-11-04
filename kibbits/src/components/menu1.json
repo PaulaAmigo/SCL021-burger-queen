@@ -1,0 +1,89 @@
+{
+    "name": "Menu",
+    "desayuno": [
+        {
+            "id": "0",
+            "product": "Té tradicional",
+            "price": "5.00"
+        },
+        {
+            "id": "1",
+            "product": "Café americano",
+            "price": "5.00"
+        },
+        {
+            "id": "2",
+            "product": "Paila de huevos",
+            "price": "10.00"
+        },
+        {
+            "id": "3",
+            "product": "Café latte/capuccino",
+            "price": "7.00"
+        },
+        {
+            "id": "4",
+            "product": "Tostadas con palta",
+            "price": "10.00"
+        },
+        {
+            "id": "5",
+            "product": "Sandwich de jamón y queso",
+            "price": "10.00"
+        },
+        {
+            "id": "6",
+            "product": "Jugos naturales sabores",
+            "price": "4.50"
+        },
+        {
+            "id": "7",
+            "product": "Agua c/s gas",
+            "price": "4.50"
+        }
+
+    ],
+    "restoDelDia": [
+        {
+            "id": "8",
+            "product": "Hamburguesa rústica",
+            "price": "18.00"
+        },
+        {
+            "id":"9",
+            "product": "Hamburguesa de la casa",
+            "price": "19.00"
+        },
+        {
+            "id":"10",
+            "product": "Bebidas",
+            "price": "5.00"        
+        },
+        {
+            "id":"11",
+            "product": "Papas rústicas",
+            "price": "15.00"        
+        },
+        {
+            "id":"12",
+            "product": "Hamburguesa campestre",
+            "price": "20.00"        
+        },
+        {
+            "id":"13",
+            "product": "Jugos naturales Sabores",
+            "price": "4.50"        
+        },
+        {
+            "id":"14",
+            "product": "Agua c/s gas",
+            "price": "4.50"        
+        },
+        {
+            "id":"15",
+            "product": "Cerveza",
+            "price": "7.00"        
+        }
+    ]
+    }
+    
