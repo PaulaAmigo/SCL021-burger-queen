@@ -1,4 +1,5 @@
 import React from "react";
+import ButtonHome from "../components/homeButtom";
 import Flowers from "../components/logoFlower";
 import House from "../components/logoHouse";
 
@@ -9,6 +10,7 @@ function Cocina(){
             <House />
             <Flowers/>
             </header>
+            <ButtonHome/>
             
       </div>
     )

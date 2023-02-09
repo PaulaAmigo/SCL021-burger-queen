@@ -3,8 +3,8 @@ import house from "../img/logoKibbits.png"
 
 function House(){
     return (
-        <div>
-        <img src={house} className="App-logo" alt="logo" />
+        <div className="logos">
+        <img src={house} className="logoHouse" alt="logo" />
         </div>
     )
 }

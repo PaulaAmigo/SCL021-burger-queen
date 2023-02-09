@@ -3,8 +3,8 @@ import flowers from "../img/logoFlowers.png";
 
 function Flowers(){
     return (
-        <div className="logos">
-        <img src={flowers} className="App-logo2" alt="logo" />
+        <div>
+        <img src={flowers} className="logoFlowers" alt="logo" />
         </div>
     )
 }

@@ -15,10 +15,10 @@ function Home(){
             </header>
       <section className="Who">
         <h1>¿Quien soy?</h1>
-        <button className="mesero"><Link to="mesero" className="button">Mesero<img src={MenuPics} className="menuPics" alt="menuPics" /></Link></button>
-        <button className="cocina"><Link to="cocina" className="button">Cocina<img src={CookPics} className="cookPics" alt="cookPics" /></Link></button>
+        <button className="meseroButton"><Link to="mesero" className="button">Mesero<img src={MenuPics} className="menuPics" alt="menuPics" /></Link></button>
+        <button className="cocinaButton"><Link to="cocina" className="button">Cocina<img src={CookPics} className="cookPics" alt="cookPics" /></Link></button>
       </section>
-      </div>
+      </div> 
     )
 }
 export default Home;
